@@ -4,3 +4,4 @@ This project supports modded mobile discord clients such as [Pyoncord(Bunny)](ht
 _____________
 Fonts:
 ------
+- [Montserrat](https://raw.githubusercontent.com/RD-github31/font-test-for-modded-discord/refs/heads/main/test.json)
