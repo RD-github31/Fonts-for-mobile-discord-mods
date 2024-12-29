@@ -5,3 +5,4 @@ _____________
 Fonts:
 ------
 - [Montserrat](https://raw.githubusercontent.com/RD-github31/font-test-for-modded-discord/refs/heads/main/test.json)
+- [Arial Narrow](https://raw.githubusercontent.com/RD-github31/Fonts-for-mobile-discord-mods/refs/heads/main/ArialNarrow/ArialNarrow.json)
